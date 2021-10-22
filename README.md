@@ -6,18 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj82862&label=Profile%20views&color=0e75b6&style=flat" alt="raj82862" /> </p>
 
-<h2 align="left">👦About Me:</h2>
+<h1 align="center">👦About Me:</h1>
 
 - 🌱 I’m currently learning ReactJS
-- 
 - 👯 I’m looking to collaborate with other Open Source Enthusiasts
-- 
 - 🥅 2021 Goals: Contribute more to Open Source Projects
-- 
 - 🎸 I love to Design and play guitar
-
 - 📫 How to reach me **rajm.ug20.ece@nitp.ac.in**
-- 
 - ⚡ Fact: Your present is responsible for each and every minute of your past and future
  
 <br/>
