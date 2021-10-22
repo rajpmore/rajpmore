@@ -1,16 +1,23 @@
 <p align="center"><img src="https://github.com/Raj82862/RaJ/blob/main/46207-programmer.gif" alt="raj82862" width="250" height="250" /></a></p>
-<h1 align="center">Hi 👋 there!!! I'm Raj More</h1>
-<h3 align="center">Undergrad at NIT Patna 👨‍🎓</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there!!! I'm Raj More</h1>
+<h3 align="center">Sophomore at NIT Patna 👨‍🎓</h3>
+
+<p align="center" >Hello there this is Raj More, a Sophomore at NIT Patna. I am an aspiring web developer and an individual who loves to design and code. I am ready to collaborate on interesting😉 web development projects. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj82862&label=Profile%20views&color=0e75b6&style=flat" alt="raj82862" /> </p>
 
 <h2 align="left">👦About Me:</h2>
 
 - 🌱 I’m currently learning ReactJS
+- 
 - 👯 I’m looking to collaborate with other Open Source Enthusiasts
+- 
 - 🥅 2021 Goals: Contribute more to Open Source Projects
+- 
 - 🎸 I love to Design and play guitar
+
 - 📫 How to reach me **rajm.ug20.ece@nitp.ac.in**
+- 
 - ⚡ Fact: Your present is responsible for each and every minute of your past and future
  
 <br/>
