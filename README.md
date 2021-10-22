@@ -28,6 +28,6 @@
 
 <a href="https://github.com/Raj82862/github-readme-activity-graph"><img border-radius="10px" alt="Raj82862 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raj82862&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<h2 align="left">	📞Connect with me:</h2>
+<h2 align="center">	📞Connect with me:</h2>
 
-<p align="left"> <a href="https://twitter.com/RajMore92073482?s=09" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="raj82862" width="30" /> </a> <a href="https://linkedin.com/in/raj-more-50b543202" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="raj82862" width="30" /> </a> </p>
+<p align="center"> <a href="https://twitter.com/RajMore92073482?s=09" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj82862" height="30" width="40" /> </a> <a href="https://linkedin.com/in/raj-more-50b543202" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj82862" height="30" width="40" /> </a> </p>
