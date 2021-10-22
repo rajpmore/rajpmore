@@ -34,9 +34,9 @@
 
 <p align="center"> <a href="https://twitter.com/RajMore92073482?s=09" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj82862" height="30" width="40" /> </a> <a href="https://linkedin.com/in/raj-more-50b543202" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj82862" height="25" width="32" /> </a> </p>
 <h1 align = 'Center'>Watch a 🐍 eating my Contribution Graph</h1>
-<p align="center">
+
 ![snake gif](https://github.com/Raj82862/Raj82862/blob/output/github-contribution-grid-snake.gif)
-</p>
+
 <br>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
