@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Raj82862/RaJ/blob/main/46207-programmer.gif" /></a></p>
+<p align="center"><img src="https://github.com/Raj82862/RaJ/blob/main/46207-programmer.gif" alt="raj82862" width="250" height="250" /></a></p>
 <h1 align="center">Hi 👋 there!!! I'm Raj More</h1>
 <h3 align="center">Undergrad at NIT Patna 👨‍🎓</h3>
 
