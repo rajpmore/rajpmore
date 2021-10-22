@@ -37,3 +37,7 @@
 <p align="center">
   <img src="https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<br>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
