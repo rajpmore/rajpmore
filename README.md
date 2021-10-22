@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there!!! I'm Raj More</h1>
 <h3 align="center">Sophomore at NIT Patna 👨‍🎓</h3>
 
-<p align="center" >I am an aspiring **SDE** and an individual who loves to design and code. I am ready to collaborate on interesting😉 web development projects. </p>
+<p align="center" >I am an aspiring SDE and an individual who loves to design and code. I am ready to collaborate on interesting😉 web development projects. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj82862&label=Profile%20views&color=0e75b6&style=flat" alt="raj82862" /> </p>
 
