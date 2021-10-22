@@ -1,4 +1,4 @@
-<p align="center"><img src="—Pngtree—hacker coding with a keyboard_5426760.png" alt="raj82862" width="250" height="250"/></p>
+<p align="center"><img src="https://github.com/Raj82862/RaJ/46207-programmer.gif" /></a></p>
 <h1 align="center">Hi 👋 there!!! I'm Raj More</h1>
 <h3 align="center">Undergrad at NIT Patna 👨‍🎓</h3>
 
