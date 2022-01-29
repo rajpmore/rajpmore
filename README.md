@@ -8,9 +8,9 @@
 
 <h1 align="center">👦About Me</h1>
 
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate with other Open Source Enthusiasts
-- 🥅 2021 Goals: Contribute more to Open Source Projects
+- 🌱 I’m currently into Competitive Programming
+- 👯 I’m looking to collaborate with other Android Developers
+- 🥅 2022 Goals: Deep Dive in Open Source
 - 🎸 I love to Design and play guitar
 - 📫 How to reach me **rajm.ug20.ece@nitp.ac.in**
 - ⚡ Fact: Your present is responsible for each and every minute of your past and future
