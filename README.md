@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Raj82862/RaJ/blob/main/46207-programmer.gif" alt="raj82862" width="250" height="250" /></a></p>
 <h1 align="center">Hi 👋 there!!! I'm Raj More</h1>
-<h3 align="center">Third Year Undergraduate at NIT Patna 👨‍🎓</h3>
+<h3 align="center">Final Year Student at NIT Patna 👨‍🎓</h3>
 
 <p align="center" >I am an aspiring SDE and an individual who loves to code. I am ready to collaborate on interesting😉 web development & robotics projects. </p>
 
