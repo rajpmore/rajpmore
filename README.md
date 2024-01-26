@@ -27,7 +27,7 @@
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajpmore&show_icons=true&locale=en&theme=radical" alt="rajpmore" />
 <img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpmore&show_icons=true&locale=en&layout=compact&theme=radical" alt="rajpmore" /></p>
 
-<a href="https://github.com/rajpmore/github-readme-activity-graph"><img border-radius="10px" alt="rajpmore Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajpmore&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+/*<a href="https://github.com/rajpmore/github-readme-activity-graph"><img border-radius="10px" alt="rajpmore Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajpmore&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>*/
 
 <h2 align="center">	📞Connect with me</h2>
 
