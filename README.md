@@ -21,13 +21,13 @@
 
 <br>
 <h2 align="center"> 📈 My GitHub Streak</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj82862&theme=radical" alt="Raj82862" /></p><br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajpmore&theme=radical" alt="rajpmore" /></p><br/>
 <h2 align="center"> 📈 My GitHub stats</h2>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raj82862&show_icons=true&locale=en&theme=radical" alt="Raj82862" />
-<img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj82862&show_icons=true&locale=en&layout=compact&theme=radical" alt="Raj82862" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajpmore&show_icons=true&locale=en&theme=radical" alt="rajpmore" />
+<img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpmore&show_icons=true&locale=en&layout=compact&theme=radical" alt="rajpmore" /></p>
 
-<a href="https://github.com/Raj82862/github-readme-activity-graph"><img border-radius="10px" alt="Raj82862 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raj82862&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rajpmore/github-readme-activity-graph"><img border-radius="10px" alt="rajpmore Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajpmore&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <h2 align="center">	📞Connect with me</h2>
 
